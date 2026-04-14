@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1848-minimum-distance-to-the-target-element](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Easy/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Medium/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Medium/1980-find-unique-binary-string/) | Medium |
+| [2463-minimum-total-distance-traveled](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Hard/2463-minimum-total-distance-traveled/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Hard/2573-find-the-string-with-lcp/) | Hard |
 | [2751-robot-collisions](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Hard/2751-robot-collisions/) | Hard |
 | [2906-construct-product-matrix](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Medium/2906-construct-product-matrix/) | Medium |
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Hard/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Medium/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Medium/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+| [2463-minimum-total-distance-traveled](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Hard/2463-minimum-total-distance-traveled/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Hard/2573-find-the-string-with-lcp/) | Hard |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Medium/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Hard/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
@@ -172,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Medium/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Medium/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [2463-minimum-total-distance-traveled](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Hard/2463-minimum-total-distance-traveled/) | Hard |
 | [2751-robot-collisions](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Hard/2751-robot-collisions/) | Hard |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Medium/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Medium/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
