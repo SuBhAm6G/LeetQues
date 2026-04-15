@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Medium/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Medium/1980-find-unique-binary-string/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Hard/2463-minimum-total-distance-traveled/) | Hard |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Easy/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Hard/2573-find-the-string-with-lcp/) | Hard |
 | [2751-robot-collisions](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Hard/2751-robot-collisions/) | Hard |
 | [2906-construct-product-matrix](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Medium/2906-construct-product-matrix/) | Medium |
@@ -68,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Medium/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Medium/1980-find-unique-binary-string/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Medium/2075-decode-the-slanted-ciphertext/) | Medium |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Easy/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Hard/2573-find-the-string-with-lcp/) | Hard |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Easy/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Medium/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
