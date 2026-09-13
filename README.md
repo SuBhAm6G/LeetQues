@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
 | [0396-rotate-function](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Medium/0396-rotate-function/) | Medium |
+| [0835-image-overlap](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Medium/0835-image-overlap/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Medium/0874-walking-robot-simulation/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Medium/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Medium/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
+| [0835-image-overlap](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Medium/0835-image-overlap/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Medium/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Medium/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Medium/1559-detect-cycles-in-2d-grid/) | Medium |
