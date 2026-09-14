@@ -197,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
 | [0396-rotate-function](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Medium/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Medium/0788-rotated-digits/) | Medium |
+| [0836-rectangle-overlap](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Easy/0836-rectangle-overlap/) | Easy |
 | [1622-fancy-sequence](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Hard/1622-fancy-sequence/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Medium/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Easy/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -264,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Easy/0836-rectangle-overlap/) | Easy |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Hard/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
