@@ -304,4 +304,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Easy/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1683-invalid-tweets](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Easy/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Easy/1757-recyclable-and-low-fat-products/) | Easy |
+| [1934-confirmation-rate](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Medium/1934-confirmation-rate/) | Medium |
 <!---LeetCode Topics End-->
