@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Medium/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Hard/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Medium/3488-closest-equal-element-queries/) | Medium |
+| [3525-find-x-value-of-array-ii](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Hard/3525-find-x-value-of-array-ii/) | Hard |
 | [3546-equal-sum-grid-partition-i](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Medium/3546-equal-sum-grid-partition-i/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Medium/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Easy/3643-flip-square-submatrix-vertically/) | Easy |
@@ -212,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Easy/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Medium/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Hard/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
+| [3525-find-x-value-of-array-ii](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Hard/3525-find-x-value-of-array-ii/) | Hard |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Medium/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -227,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1622-fancy-sequence](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Hard/1622-fancy-sequence/) | Hard |
+| [3525-find-x-value-of-array-ii](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Hard/3525-find-x-value-of-array-ii/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
