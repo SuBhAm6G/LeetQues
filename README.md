@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1559-detect-cycles-in-2d-grid](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Medium/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Easy/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Medium/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Medium/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Medium/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Medium/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Easy/1848-minimum-distance-to-the-target-element/) | Easy |
@@ -142,12 +143,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Medium/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Medium/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0874-walking-robot-simulation](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Medium/0874-walking-robot-simulation/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Hard/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Medium/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Medium/1980-find-unique-binary-string/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Medium/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Medium/3488-closest-equal-element-queries/) | Medium |
@@ -163,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Medium/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Medium/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2906-construct-product-matrix](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Medium/2906-construct-product-matrix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Medium/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
@@ -178,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Medium/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Medium/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Medium/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Hard/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
