@@ -1,20 +1,21 @@
 class Solution:
     def generateParenthesis(self, n: int) -> list[str]:
-        ans = []
-        path = [''] * (2 * n)
+        if n == 1: return ["()"]
 
-        def backtrack(pos, open_count, close_count):
-            if pos == 2 * n:
-                ans.append(''.join(path))
+        n -= 1
+        res = []
+
+        def dfs(O, C, s):
+            if not O and not C:
+                res.append(s + ")")
                 return
 
-            if open_count < n:
-                path[pos] = '('
-                backtrack(pos + 1, open_count + 1, close_count)
+            if O > 0:
+                dfs(O - 1, C, s + "(")
 
-            if close_count < open_count:
-                path[pos] = ')'
-                backtrack(pos + 1, open_count, close_count + 1)
+            if C >= O:
+                dfs(O, C - 1, s + ")")
 
-        backtrack(0, 0, 0)
-        return ans
+        dfs(n, n, "(")
+
+        return res
