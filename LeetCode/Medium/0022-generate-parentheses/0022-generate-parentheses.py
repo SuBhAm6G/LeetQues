@@ -1,20 +1,20 @@
 class Solution:
     def generateParenthesis(self, n: int) -> list[str]:
-        result = []
+        ans = []
+        path = [''] * (2 * n)
 
-        def backtrack(current, open_count, close_count):
-            # A complete valid combination
-            if len(current) == 2 * n:
-                result.append(current)
+        def backtrack(pos, open_count, close_count):
+            if pos == 2 * n:
+                ans.append(''.join(path))
                 return
 
-            # Add '('
             if open_count < n:
-                backtrack(current + "(", open_count + 1, close_count)
+                path[pos] = '('
+                backtrack(pos + 1, open_count + 1, close_count)
 
-            # Add ')' only when valid
             if close_count < open_count:
-                backtrack(current + ")", open_count, close_count + 1)
+                path[pos] = ')'
+                backtrack(pos + 1, open_count, close_count + 1)
 
-        backtrack("", 0, 0)
-        return result
+        backtrack(0, 0, 0)
+        return ans
