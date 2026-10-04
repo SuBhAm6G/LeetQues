@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0678-valid-parenthesis-string](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Medium/0678-valid-parenthesis-string/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Hard/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Medium/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Medium/1727-largest-submatrix-with-rearrangements/) | Medium |
@@ -93,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Easy/0657-robot-return-to-origin/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Medium/0678-valid-parenthesis-string/) | Medium |
 | [0796-rotate-string](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Easy/0796-rotate-string/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Hard/1096-brace-expansion-ii/) | Hard |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
@@ -133,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
 | [0396-rotate-function](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Medium/0396-rotate-function/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Medium/0678-valid-parenthesis-string/) | Medium |
 | [0788-rotated-digits](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Medium/0788-rotated-digits/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Hard/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Medium/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
@@ -276,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Medium/0678-valid-parenthesis-string/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Hard/1096-brace-expansion-ii/) | Hard |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -337,6 +341,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Medium/0678-valid-parenthesis-string/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Hard/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
