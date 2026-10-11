@@ -330,6 +330,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0175-combine-two-tables](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Easy/0175-combine-two-tables/) | Easy |
 | [0176-second-highest-salary](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Medium/0176-second-highest-salary/) | Medium |
 | [0177-nth-highest-salary](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Medium/0177-nth-highest-salary/) | Medium |
+| [0178-rank-scores](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Medium/0178-rank-scores/) | Medium |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Medium/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0577-employee-bonus](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Easy/0577-employee-bonus/) | Easy |
 | [0584-find-customer-referee](https://github.com/SuBhAm6G/LeetQues/tree/main/LeetCode/Easy/0584-find-customer-referee/) | Easy |
